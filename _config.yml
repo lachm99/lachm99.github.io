@@ -15,4 +15,4 @@ google_analytics: true
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-include: ['_pages']
+include: ['pages', 'projects']
