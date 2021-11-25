@@ -1,6 +1,15 @@
-title: Minimal theme
+title: Lachie Macdonald
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Graduate Computer Scientist & Software Dev.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+include: ['_pages']
+
+linkedin_username: lachm99
+github_username:  lachm99
+mail_address: lachlanmac99@gmail.com
+strava_username: lachm99
+show_excerpts: true
