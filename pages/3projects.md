@@ -14,4 +14,9 @@ Analysis and visualisation project for USYD Data2X02, 2020
 
 ---
 
+## [Abalone Age Analysis](/projects/abalone-hypothesis-testing)
+Interactive presentation. PDF report available [here](/projects/Abalone-Age/Report.pdf)
+
+---
+
 
