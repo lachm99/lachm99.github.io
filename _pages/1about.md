@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "About"
+title:  "About Me"
 permalink: /
 ---
 
@@ -17,4 +17,7 @@ leverage the skills I love using for the good of others.
 I'm hoping to marry these twin passions throughout my career,
 making serious and skilfull contributions to work which has an impact for good.
 
-For now, more details can be found at [my github](https://github.com/lachm99).
+For now, checkout some of my other projects on [github](https://github.com/lachm99),
+or learn a bit more about me at [linkedin](https://linkedin.com/in/lachm99).  
+
+Don't hesitate to [get in touch!](../contact)
