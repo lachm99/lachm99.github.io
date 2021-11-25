@@ -3,8 +3,5 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
-.github
-.travis.yml
-.rubocop.yml
-.gitignore
-.
+.github/
+
