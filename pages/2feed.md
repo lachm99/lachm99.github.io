@@ -6,4 +6,7 @@ layout: feed
 title: Feed
 permalink: /feed/
 ---
-For now, there's nothing here. Stay tuned for Blog Posts!
+There'll probably never be anything here...
+
+> "Stay tuned for Blog Posts!"  
+_Lachie Macdonald, 2021_

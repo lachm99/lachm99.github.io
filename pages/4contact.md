@@ -12,9 +12,9 @@ Shoot me an email at [lachlanmac99@gmail.com](mailto:lachlanmac99@gmail.com), or
 
 | Good reasons to contact me:   | Bad reasons to contact me:    |
 |-------------------------------|-------------------------------|
-| Job offers                    | Death Threats                 |
+| Job offers                    | Fashion advice                |
 | Project Enquiries             | That's pretty much it.        |
-| Telling me a joke you like    |
+| Showing me a bird you drew    |
 | Pointing out bugs in my janky website|
  
 
