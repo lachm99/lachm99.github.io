@@ -32,46 +32,132 @@ body {
             font-weight:normal;
             text-decoration: underline 0.15em rgba(100, 100, 100, 1);    
         }
+    }        
+    .indented {
+        margin: 0px 0px 0px 15px;
     }
+
     padding-bottom: 10px;
 }
 
 
-
+$border: 8px solid rgba(229,229,229,0.8);
+$border-rad: 2px;
+$border-hover: 6px solid rgba(0,0,0,0.8);
+$border-hover-rad: 8px;
 
 .logo-div {
-    width: 100%;
-    background-color: white;
-    border-radius: 10px;
-    transition-duration: 0.4s;
+    display: block;
+    width: calc(100% - 20px);
+    height: 100px;
+    position: relative;
+    margin: 20px auto;
+
+    .container {
+        &:after {
+          display: block;
+          content: "";
+          width: 30px;
+          height: 30px;
+          position: absolute;
+          bottom: -10px;
+          right: -10px;
+          border-bottom: $border;
+          border-right: $border;
+          border-radius: $border-rad;
+          transition: all 0.5s ease;
+        }
+        &:before {
+          display: block;
+          content: "";
+          width: 30px;
+          height: 30px;
+          position: absolute;
+          bottom: -10px;
+          left: -10px;
+          border-bottom:  $border;
+          border-left:  $border;
+          border-radius: $border-rad;
+          transition: all 0.5s ease;
+        }
+      }
+      &:before {
+        display: block;
+        content: "";
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: -10px;
+        left: -10px;
+        border-top:  $border;
+        border-left: $border;
+        border-radius: $border-rad;
+        transition: all 0.5s ease;
+      }
+      &:after {
+        display: block;
+        content: "";
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        border-top:  $border;
+        border-right:  $border;
+        border-radius: $border-rad;
+        transition: all 0.5s ease;
+      }
+
     &:hover {
-        background-color: rgba(150,150,150,0.1);
-        transition-duration: 0.4s;
+        div h1 {
+            color: rgb(100, 100, 100);
+            text-decoration: underline 0.1em rgba(100, 100, 100, 1);   
+            transition-duration: 0.5s;     
+        }
+        .logo img {
+            filter: grayscale(70%);
+            -webkit-filter: grayscale(70%); 
+            transition: all 0.5s ease;           
+        }
+        &:before, &:after, .container:before, .container:after {
+            border-color: gray;
+            border-width: 5px;
+            border-radius: 5px;
+        }
     }
+
     .logo {
-        float:left;
-        border-radius: 10%;
-        border-color: white;
-        border-width: 0px;
-        border-style: solid;
-        height: 15vh;
-        min-height: 50px;
+        padding: 0px;
+        height: 100%;
+        aspect-ratio: 1;
+        img {
+            filter: grayscale(10%);
+            -webkit-filter: grayscale(10%);  
+            transition: all 0.5s ease;       
+            height: 100%;
+            aspect-ratio: 1;
+            border-color: white;
+            border-radius: 5px;
+            border-width: 0px;
+            border-style: solid;    
+        }
     }
-    a {
-        height: 15vh;
-        width: 100%;
-        min-height: 60px;
-        margin-bottom: 10px;
+    .container {
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        padding: 10px;
+        height:80%;
+        width: calc(100% - 20px);
         display: flex;
         align-items: center;
-        aspect-ratio: 1;
-        border-radius: 10px;
-        padding: 5px; 
         h1 {
             display: block;
             color: rgb(50, 50, 50);
             padding: 0 0 0 10px;
             margin: 0;
+            text-decoration: underline 0.1em rgba(0,0,0,0);
         }
     }
 }

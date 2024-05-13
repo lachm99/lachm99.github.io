@@ -1,20 +1,29 @@
 <div class="site-nav-header">
-  {%- assign default_paths = site.pages | map: "path" -%}
-  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {% assign default_paths = site.pages | map: "path" %}
+  {% assign page_paths = site.header_pages | default: default_paths %}
 
-  {%- if page_paths -%}
-    {%- for path in page_paths -%}
+  {% if page_paths %}
+    {% for path in page_paths %}
+      {% assign my_page = site.pages | where: "path", path | first %}
+      {% assign is_current = false %}
 
-      {%- if path contains "pages/" -%}
-        {%- assign my_page = site.pages | where: "path", path | first -%}
-        {%- if my_page.title -%}
-          {% if page.path == path %}
-            <a class="page-link current" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% else %}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {%- endif -%}
-        {%- endif -%}
-      {%- endif -%}
-    {%- endfor -%}
-  {%- endif -%}
+      {% if my_page %}
+        {% if my_page.title == "E-Portfolio" %}
+          <a class="page-link{% if page.path contains 'portfolio' %} current{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <div class="indented">
+            {% assign eportfolio_pages = site.pages | where_exp: "page", "page.path contains 'e-portfolio/'" %}
+            {% if page.path contains "portfolio" %}
+            {% for eportfolio_page in eportfolio_pages %}
+              <a class="page-link{% if page.path == eportfolio_page.path %} current{% endif %}" href="{{ eportfolio_page.url | relative_url }}">{{ eportfolio_page.title | escape }}</a>
+            {% endfor %}
+            {%endif%}
+          </div>
+        {% else %}
+          {% if my_page.path contains "pages/" %}
+            <a class="page-link{% if path == page.path %} current{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 </div>

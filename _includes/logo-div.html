@@ -1,6 +1,8 @@
-<div class="logo-div">
-  <a href="{{ '/' | absolute_url }}">
-    <img class="logo" src="{{site.logo | relative_url}}" alt="Logo"/>
+<a class="logo-div" href="{{ '/' | absolute_url }}">
+  <div class="container">
+    <div class="logo">
+      <img src="{{site.logo | relative_url}}" alt="Logo"/>
+    </div>
     <h1>{{ site.title | default: site.github.repository_name }}</h1>
-  </a>
-</div>
+  </div>
+</a>

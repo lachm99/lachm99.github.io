@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1000px;
+  width:1100px;
   margin:0 auto;
 }
 
@@ -186,13 +186,13 @@ strong {
 }
 
 section {
-  width:600px;
+  width:750px;
   float:right;
   padding-bottom:50px;
 }
 
 small {
-  font-size:11px;
+  font-size:10px;
 }
 
 hr {
@@ -203,14 +203,18 @@ hr {
 }
 
 footer {
-  width:270px;
-  float:left;
   position:fixed;
-  bottom:50px;
+  right: 0;
+  bottom:0;
   -webkit-font-smoothing:subpixel-antialiased;
-}
+  background-color: rgba(0,0,0,0.05);
+  padding: 2px 5px 2px 5px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0 3px 0px 0px;
+  border-radius: 0 3px 0px 0px; 
+  }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1060px) {
 
   div.wrapper {
     width:auto;
@@ -221,6 +225,10 @@ footer {
     float:none;
     position:static;
     width:auto;
+  }
+
+  footer {
+    text-align: center;
   }
 
   header {
