@@ -16,3 +16,5 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 include: ['pages', 'projects']
+
+test: val
