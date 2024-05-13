@@ -210,8 +210,10 @@ footer {
   background-color: rgba(0,0,0,0.05);
   padding: 2px 5px 2px 5px;
   -moz-border-radius: 0px;
-  -webkit-border-radius: 0 3px 0px 0px;
-  border-radius: 0 3px 0px 0px; 
+  -webkit-border-radius: 3px 0px 0px 0px;
+  border-radius: 3px 0px 0px 0px; 
+  border-left: 1px solid lightgray;
+  border-top: 1px solid lightgray;
   }
 
 @media print, screen and (max-width: 1060px) {
@@ -229,6 +231,11 @@ footer {
 
   footer {
     text-align: center;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px; 
+    border-left: none;
+    border-top: 1px solid lightgray;
   }
 
   header {
