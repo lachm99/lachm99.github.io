@@ -8,11 +8,11 @@ permalink: e-portfolio
 ---
   
 
-## [OneNote](./onenote)
+## [OneNote](/e-portfolio/onenote)
 
 ---
 
-## [Vivi](./vivi)
+## [Vivi](/e-portfolio/vivi)
 
 ---
 
