@@ -199,7 +199,11 @@ hr {
   border:0;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 20px;
+  margin:0 0 20px 0;
+}
+
+hr.no-gap {
+  margin-bottom:0px;
 }
 
 footer {
@@ -257,6 +261,10 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+  }
+  header .site-nav-header {
+    overflow: visible;
+    max-height: unset;
   }
 }
 

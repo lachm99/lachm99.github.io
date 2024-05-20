@@ -16,6 +16,9 @@ body {
 
 
 .site-nav-header {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 50vh;
     .page-link {
         font-size:large;
         display: block;
@@ -37,7 +40,23 @@ body {
         margin: 0px 0px 0px 15px;
     }
 
-    padding-bottom: 10px;
+    &::-webkit-scrollbar-track
+    {
+        border-radius: 5px;
+        background-color: #FFFFFF;
+    }
+
+    &::-webkit-scrollbar
+    {
+        width: 6px;
+        background-color: #FFF;
+    }
+
+    &::-webkit-scrollbar-thumb
+    {
+        border-radius: 5px;
+        background-color: #F0F0F0;
+    }
 }
 
 
