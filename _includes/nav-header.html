@@ -12,7 +12,8 @@
         {% if my_page.title == "E-Portfolio" %}
           <a class="page-link{% if page.path contains 'portfolio' %} current{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           <div class="indented">
-            {% assign eportfolio_pages = site.pages | where_exp: "page", "page.path contains 'e-portfolio/'" %}
+            {% assign eportfolio_files = site.pages | where_exp: "page", "page.path contains 'e-portfolio/'" %}
+            {% assign eportfolio_pages = eportfolio_files | where_exp: "page", "page.layout=='standard'" %}
             {% if page.path contains "portfolio" %}
             {% for eportfolio_page in eportfolio_pages %}
               <a class="page-link{% if page.path == eportfolio_page.path %} current{% endif %}" href="{{ eportfolio_page.url | relative_url }}">{{ eportfolio_page.title | escape }}</a>
