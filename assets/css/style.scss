@@ -13,10 +13,8 @@ body {
     padding: 50px;
 }
 
-
-
 .site-nav-header {
-    overflow-y: scroll;
+    overflow-y: auto;
     overflow-x: hidden;
     max-height: 50vh;
     .page-link {
@@ -40,22 +38,25 @@ body {
         margin: 0px 0px 0px 15px;
     }
 
+
+
     &::-webkit-scrollbar-track
     {
-        border-radius: 5px;
-        background-color: #FFFFFF;
+        border-radius: 8px;
+        background-color: #EEE;
     }
 
     &::-webkit-scrollbar
     {
-        width: 6px;
-        background-color: #FFF;
+        width: 8px;
+        border-radius: 5px;
+        background-color: #EEE;
     }
 
     &::-webkit-scrollbar-thumb
     {
-        border-radius: 5px;
-        background-color: #F0F0F0;
+        border-radius: 6px;
+        background-color: #CCC;
     }
 }
 
@@ -70,8 +71,7 @@ $border-hover-rad: 8px;
     width: calc(100% - 20px);
     height: 100px;
     position: relative;
-    margin: 20px auto;
-
+    margin: 10px auto 20px auto;
     .container {
         &:after {
           display: block;
