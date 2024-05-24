@@ -24,4 +24,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non sollicitudin 
 Roediger, H. L., & Butler, A. C. (2011). The critical role of retrieval practice in long-term retention. *Trends in Cognitive Sciences, 15*(1), 20–27.  
 
 
-{% include bottom-links.html ltext="" lref="" ctext="Home" cref="." rtext="Standard Two" rref="standard-2" %}
+{% include bottom-links.html ltext="" lref="" ctext="Home" cref="../e-portfolio" rtext="Standard Two" rref="standard-2" %}
