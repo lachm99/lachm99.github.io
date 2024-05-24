@@ -16,37 +16,37 @@ blah blah blah
 
 ---
 
-- ### [Standard One](standard-1)
+- ### [Standard One](/e-portfolio/standard-1)
     - Retrieval Roulettes
     - Vivi
 
 ---
 
-- ### [Standard Two](standard-2)
+- ### [Standard Two](/e-portfolio/standard-2)
     - Retrieval Roulettes
     - Vivi
 
 ---
 
-- ### [Standard Three](standard-3)
+- ### [Standard Three](/e-portfolio/standard-3)
     - Retrieval Roulettes
     - Vivi
 
 ---
 
-- ### [Standard Four](standard-4)
+- ### [Standard Four](/e-portfolio/standard-4)
     - Retrieval Roulettes
     - Vivi
 
 ---
 
-- ### [Standard Five](standard-5)
+- ### [Standard Five](/e-portfolio/standard-5)
     - Retrieval Roulettes
     - Vivi
 
 ---
 
-- ### [Standard Six](standard-6)
+- ### [Standard Six](/e-portfolio/standard-6)
     - Retrieval Roulettes
     - Vivi
 
