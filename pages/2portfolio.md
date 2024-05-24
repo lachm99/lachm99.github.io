@@ -23,34 +23,37 @@ blah blah blah
 ---
 
 - ### [Standard Two](/e-portfolio/standard-2)
-    - Retrieval Roulettes
-    - Vivi
+    - TBD
+    - TBD
 
 ---
 
 - ### [Standard Three](/e-portfolio/standard-3)
-    - Retrieval Roulettes
-    - Vivi
+    - TBD
+    - TBD
 
 ---
 
 - ### [Standard Four](/e-portfolio/standard-4)
-    - Retrieval Roulettes
-    - Vivi
+    - TBD
+    - TBD
 
 ---
 
 - ### [Standard Five](/e-portfolio/standard-5)
-    - Retrieval Roulettes
-    - Vivi
+    - TBD
+    - TBD
 
 ---
 
 - ### [Standard Six](/e-portfolio/standard-6)
-    - Retrieval Roulettes
-    - Vivi
+    - TBD
+    - TBD
 
 ---
+- ### [Standard Seven](/e-portfolio/standard-7)
+    - TBD
+    - TBD
 
 
 
