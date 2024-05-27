@@ -345,3 +345,19 @@ iframe {
         width:30%;
         }
 }
+
+summary {
+    font-weight: bold;
+    &:hover {
+        cursor: pointer;
+        color:#267CB9;
+    }
+}
+
+section img {
+    display: block;
+    width: calc(100% - 50px);
+    margin: 0 auto;
+    box-shadow: 3px 3px 5px gray;
+    border: 1px solid dimgray;
+}
