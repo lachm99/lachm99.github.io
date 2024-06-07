@@ -1,7 +1,6 @@
 ---
 layout: standard
 title: References
-test: "bleh"
 ---
 
 
