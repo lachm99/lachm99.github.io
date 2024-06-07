@@ -384,6 +384,11 @@ summary {
     margin: 0 auto;
     box-shadow: 3px 3px 5px darkgray;
     border: 1px solid dimgray;
+    a {
+        img {
+            display: block;
+        }
+    }
 }
 
 .toc {

@@ -7,7 +7,7 @@ title: E-Portfolio
 permalink: e-portfolio
 ---
 
-Throughout this portfolio, the Australian Professional Standards for Teachers (Australian Institute for Teaching and School Leadership, 2011) are referred to extensively; henceforth they will be identified simply by their code. 
+Throughout this portfolio, the [Australian Professional Standards for Teachers](https://www.aitsl.edu.au/standards) (Australian Institute for Teaching and School Leadership, 2011) are referred to extensively; henceforth they will be identified simply by their code. 
 
 References are collected at the bottom of their relevant page, and aggregated into the final [reference list](/e-portfolio/references).
 

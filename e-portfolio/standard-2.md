@@ -21,7 +21,7 @@ Furthermore, YouTube is renowned for its pre- and mid-roll advertisements, promo
 One mitigating factor for the use of Wootube is that all the videos are un-monetised, so no ads are displayed. Additionally, this is a resource which is primarily for teacher development outside of the classroom, so students needn’t be encouraged to use YouTube for themselves. Purely through the lens of enhancing teaching and learning, this resource is highly effective and ethically permissible, though this should be periodically reviewed as YouTube and its community guidelines continues to develop and change.
 
 <!-- DESMOS -->
-{% include item-title.html title="Desmos" first=True %}
+{% include item-title.html title="Desmos" %}
 
 [Desmos](https://desmos.com/) began as a collection of various graphing and geometry calculators, but has since developed into an extensive suite of mathematics tools including interactive activities and teaching resources (Desmos Studio PBC, 2024). The suite meshes well with focus area 2.6, providing many strategies for meaningfully implementing ICT in lessons across the curriculum. 
 

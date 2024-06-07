@@ -18,7 +18,7 @@ A retrieval roulette, first created by [Adam Boxer](https://achemicalorthodoxy.c
 The use of this kind of tool contributes to focus area 1.2, as it represents a knowledge of the way students gain and retain knowledge.
 
 <details><summary>Interactive Example</summary>  
-{% include frame-container.html src="https://bossmaths.com/rr2/" cap="BossMath Customisable Retrieval Roulette" %}
+{% include frame-container.html src="https://bossmaths.com/rr2/" cap="[BossMaths](https://bossmaths.com/rr/) Customisable Retrieval Roulette" %}
 </details>
 
 Roulettes like the above align with focus area 1.5, since the difficulty of some or all of the retrieval activities can be easily configured to increase complexity and challenge, or to provide students with options for self-differentiation.  
