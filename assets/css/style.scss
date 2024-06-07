@@ -185,6 +185,7 @@ $border-hover-rad: 8px;
 .social-media-list {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
     li {
         padding: 0 10px 0 10px;
         border-radius: 50%;
@@ -308,19 +309,19 @@ hr.end {
     height: 0;
 }
 
-
 .iframe-container {
     position: relative;
     overflow: hidden;
-    width: calc(100% - 4px);
     padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-    border: 2px solid lightgray;
+    width: calc(100% - 20px);
+    margin: 0 auto;
+    box-shadow: 3px 3px 5px darkgray;
+    border: 1px solid dimgray;
     z-index: 1;
-
-  }
+}
   
-  /* Then style the iframe to fit in the container div with full height and width */
-  .responsive-iframe {
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -347,17 +348,47 @@ iframe {
 }
 
 summary {
+    margin-left: 1px;
     font-weight: bold;
     &:hover {
         cursor: pointer;
         color:#267CB9;
     }
+    margin-bottom: 20px;
 }
 
-section img {
+.img-block, .iframe-block {
+    display: block;
+    text-align: center;
+    em {
+      display: block;
+      margin-top: 10px;  
+    }
+    margin-bottom: 20px;
+}
+
+.img-container {
     display: block;
     width: calc(100% - 50px);
     margin: 0 auto;
-    box-shadow: 3px 3px 5px gray;
+    box-shadow: 3px 3px 5px darkgray;
     border: 1px solid dimgray;
+}
+
+.toc {
+    h2 {
+        margin: 6px 0;
+    }
+    p {
+        margin-bottom: 8px;
+        font-style: italic;
+    }
+}
+
+.center {
+    text-align: center;
+}
+
+.item h2 + p, .csl-bib-body {
+    margin-top: 20px;
 }

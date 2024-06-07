@@ -1,14 +1,14 @@
 ---
 layout: standard
-title: Standard Three
+title: Standard 3
 subtitle: Plan for and implement effective teaching and learning
 ---
 
-- OneNote  
-
 Introductory words here are used to blah blah blah  
 
-{% include item-title.html title="First Tool" first=True %}
+{% include item-title.html title="OneNote" first=True %}
+
+{% include item-title.html title="Vivi" %}  
 
 {% include item-title.html title="References" %}  
 

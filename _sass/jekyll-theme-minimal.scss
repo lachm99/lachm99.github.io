@@ -73,8 +73,16 @@ h2.standard {
 
 }
 
-p, ul, ol, table, pre, dl {
+p, ol, table, pre, dl {
   margin:0 0 20px;
+}
+
+ul {
+  margin: 0 0 0;
+}
+
+li h3 {
+  margin:0;
 }
 
 h1, h2, h3 {
@@ -280,7 +288,7 @@ footer {
   border-top: 1px solid lightgray;
   }
 
-@media print, screen and (max-width: 1060px) {
+@media print, screen and (max-width: 1165px) {
 
   div.wrapper {
     width:auto;

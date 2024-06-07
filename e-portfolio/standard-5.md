@@ -1,15 +1,12 @@
 ---
 layout: standard
-title: Standard Five
+title: Standard 5
 subtitle: Assess, provide feedback and report on student learning
 ---
 
-- CambridgeGo
-
-
 Introductory words here are used to blah blah blah  
 
-{% include item-title.html title="First Tool" first=True %}
+{% include item-title.html title="CambridgeGO" first=True %}
 
 {% include item-title.html title="References" %}  
 

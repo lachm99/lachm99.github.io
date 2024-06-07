@@ -1,15 +1,14 @@
 ---
 layout: standard
-title: Standard Four
+title: Standard 4
 subtitle: Create and maintain supportive and safe learning environments
 ---
 
-- AnkiApp
-- Teampicker
-
 Introductory words here are used to blah blah blah  
 
-{% include item-title.html title="First Tool" first=True %}
+{% include item-title.html title="Team Picker Wheel" first=True %}
+
+{% include item-title.html title="Note" first=True %}
 
 {% include item-title.html title="References" %}  
 

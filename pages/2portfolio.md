@@ -7,53 +7,42 @@ title: E-Portfolio
 permalink: e-portfolio
 ---
 
-## Introduction
-blah blah blah 
+Introductory words here
 
 ---
 
-## Table of Contents
+<div class="center" markdown="1">
 
+# Table of Contents
 ---
 
-- ### [Standard One](/e-portfolio/standard-1)
-    - Retrieval Roulettes
-    - Vivi
+
+{% include class-div.html state="open" class="toc" %}
+## [Standard One](/e-portfolio/standard-1)  
+Retrieval Roulettes and AnkiApp
+
+## [Standard Two](/e-portfolio/standard-2)  
+Desmos and Wootube
+
+## [Standard Three](/e-portfolio/standard-3)  
+OneNote and Vivi
+
+## [Standard Four](/e-portfolio/standard-4)
+Teampicker
+
+## [Standard Five](/e-portfolio/standard-5)
+CambridgeGO
+
+## [Standard Six](/e-portfolio/standard-6)
+TEACH Journal
+
+## [Standard Seven](/e-portfolio/standard-7)
+Other
+
+## [References](/e-portfolio/references)
+Aggregated
+
+{% include class-div.html state="close" %}
+</div>
 
 ---
-
-- ### [Standard Two](/e-portfolio/standard-2)
-    - TBD
-    - TBD
-
----
-
-- ### [Standard Three](/e-portfolio/standard-3)
-    - TBD
-    - TBD
-
----
-
-- ### [Standard Four](/e-portfolio/standard-4)
-    - TBD
-    - TBD
-
----
-
-- ### [Standard Five](/e-portfolio/standard-5)
-    - TBD
-    - TBD
-
----
-
-- ### [Standard Six](/e-portfolio/standard-6)
-    - TBD
-    - TBD
-
----
-- ### [Standard Seven](/e-portfolio/standard-7)
-    - TBD
-    - TBD
-
-
-

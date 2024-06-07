@@ -13,11 +13,13 @@
           <a class="page-link{% if page.path contains 'portfolio' %} current{% endif %}" href="{{ my_page.url | relative_url | remove:'.html' }}">{{ my_page.title | escape }}</a>
           <div class="indented">
             {% assign eportfolio_files = site.pages | where_exp: "page", "page.path contains 'e-portfolio/'" %}
-            {% assign eportfolio_pages = eportfolio_files | where_exp: "page", "page.layout=='standard'" %}
+            {% assign eportfolio_pages = eportfolio_files | where_exp: "page", "page.layout=='standard' and page.title!='References'" %}
+            {% assign references_page = eportfolio_files | first %}
             {% if page.path contains "portfolio" %}
             {% for eportfolio_page in eportfolio_pages %}
               <a class="page-link{% if page.path == eportfolio_page.path %} current{% endif %}" href="{{ eportfolio_page.url | relative_url | remove:'.html' }}">{{ eportfolio_page.title | escape }}</a>
             {% endfor %}
+            <a class="page-link{% if page.path == references_page.path %} current{% endif %}" href="{{ references_page.url | relative_url | remove:'.html' }}">{{ references_page.title | escape }}</a>
             {%endif%}
           </div>
         {% else %}

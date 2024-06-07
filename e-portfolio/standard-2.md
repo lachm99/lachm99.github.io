@@ -1,11 +1,13 @@
 ---
 layout: standard
-title: Standard Two
+title: Standard 2
 subtitle: Know the content and how to teach it
 ---
 Introductory words here are used to blah blah blah  
 
-{% include item-title.html title="First Tool" first=True %}
+{% include item-title.html title="Wootube" first=True %}
+
+{% include item-title.html title="Desmos" first=True %}
 
 {% include item-title.html title="References" %}  
 
