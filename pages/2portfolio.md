@@ -14,7 +14,6 @@ The portfolio was custom built with Jekyll, and is hosted on GitHub Pages.
 
 <b>A note on referencing</b>  
 Throughout this portfolio, the [Australian Professional Standards for Teachers](https://www.aitsl.edu.au/standards) (Australian Institute for Teaching and School Leadership, 2011) are referenced extensively; henceforth standards and focus areas are referred to by number. 
-
 References are collected at the bottom of their relevant page, and aggregated into the final [reference list](/e-portfolio/references).
 
 ---

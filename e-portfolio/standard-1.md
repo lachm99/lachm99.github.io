@@ -15,7 +15,7 @@ A retrieval roulette, first created by [Adam Boxer](https://achemicalorthodoxy.c
 The use of this tool contributes to focus area 1.2, displaying a knowledge of the way students retain understanding.
 
 <details><summary>Interactive Example</summary>  
-{% include frame-container.html src="https://bossmaths.com/rr2/" cap="[BossMaths](https://bossmaths.com/rr/) Customisable Retrieval Roulette" %}
+{% include frame-container.html src="https://bossmaths.com/rr2/" cap="[BossMaths](https://bossmaths.com/rr/) customisable retrieval roulette" %}
 </details>
 
 Roulettes like the above align with focus area 1.5, since the difficulty of some or all of the retrieval activities can be configured to increase complexity and challenge.  
@@ -26,7 +26,7 @@ Self-testing has various benefits for learning, including improved retention (Ro
 
 One tool in this category is [AnkiApp](https://www.ankiapp.com/), a cross-platform app which can be used to create, find, group, share, and use digital flashcards (AnkiApp Inc., 2020). 
 
-{% include img-container.html img="/assets/img/e-portfolio/ankiapp.gif" cap="AnkiApp Web Flashcard Demonstration" link="https://www.ankiapp.com/" %}
+{% include img-container.html img="/assets/img/e-portfolio/ankiapp.gif" cap="AnkiApp Web flashcard demonstration" link="https://www.ankiapp.com/" %}
 
 Teachers can assign flashcards as a form of formative assessment, monitoring student progress. Students can be tasked with creating a deck, synthesizing disciplinary knowledge into review materials. This versatility, including options to use it across the range of lower to higher order thinking activities, make AnkiApp a helpful tool in line with focus area 1.5.
 
