@@ -13,7 +13,7 @@ This platform centralises all of these documents in one indexed location, so tha
 
 {% include item-title.html title="Other" %}  
 
-Additionally, it must be acknowledged that several items in this portfolio are included as a result of my engagement with professional teaching networks and broader communities, such as TeamPicker (emerging from literature a rural teacher directed me to) and TEACH Journal (recommended by a researcher during my studies).
+Additionally, several items in this portfolio are included as a result of my engagement with professional teaching networks and broader communities, such as TeamPicker and TEACH Journal, both recommended by professional connections outside my immediate context.
 
 {% include item-title.html title="References" %}  
 

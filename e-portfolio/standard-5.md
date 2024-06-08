@@ -7,10 +7,9 @@ subtitle: Assess, provide feedback and report on student learning
 
 CambridgeGO comprises an extensive suite of teaching resources, diagnostic tools, and activities (Cambridge University Press & Assessment, 2024). For the purpose of this portfolio, we focus on its assessment, feedback, and reporting capabilities in line with standard 5. 
 
-The Centre for Education Statistics and Evaluation (2020) recommends that teachers “develop and deliver assessment tasks that assess the intended learning outcomes from the syllabus, ensuring that the tasks are accessible to all students” (p. 22). CambridgeGO’s diagnostic suite is custom designed for this, allowing teachers to select content areas and outcomes, and constructing tests, specifying the number of questions, a desired range of question types, and the difficulty range for these questions. 
+The Centre for Education Statistics and Evaluation (2020) recommends that teachers “develop and deliver assessment tasks that assess the intended learning outcomes from the syllabus, ensuring that the tasks are accessible to all students” (p. 22). CambridgeGO’s diagnostic suite is custom designed for this, allowing teachers to select content areas and outcomes to construct assessments, specifying the number of questions, a desired range of question types, and the difficulty range for these questions.
 
 {% include img-container.html img="/assets/img/e-portfolio/cambridgego.gif" cap="CambridgeGO diagnostic test creation" link="https://www.cambridge.org/go" %}
-
 
 
 This high level of customisation enables assessment tasks that are truly fit for purpose, and can therefore provide meaningful data for feedback and reporting, as well as informing future teaching. 
@@ -19,7 +18,7 @@ This high level of customisation enables assessment tasks that are truly fit for
 {% include img-container.html img="/assets/img/e-portfolio/cambridgego2.png" cap="Topic test report (student names hidden)" link="https://www.cambridge.org/go" %}
 </details>
 
-Significantly, since quality feedback requires a focus on the next step (Brooks et al., 2019; Centre for Education Statistics and Evaluation, 2020), CambridgeGO’s ability to assign responsive follow-up work is very useful.
+Since quality feedback requires a focus on the next step (Brooks et al., 2019; Centre for Education Statistics and Evaluation, 2020), CambridgeGO’s ability to assign responsive follow-up work is very useful.
 
 
 {% include item-title.html title="References" %}  

@@ -5,18 +5,18 @@ subtitle: Engage in professional learning
 ---
 {% include item-title.html title="TEACH Journal" first=True %}
 
-Professional learning is crucial for teacher growth. Focus area 6.2 requires that teachers engage in professional learning, but many stop at attending mandatory PD. Online and freely distributed research publications, such as the TEACH journal published by Avondale University Press (2024), can help by promoting novel ideas and justifying them with results-driven reasoning. This publication is a great resource for Christian teachers, since a core focus is understanding education through a Christian lens. 
+Focus area 6.2 requires that teachers engage in professional learning, but many stop at simply attending mandatory PD. Online and freely distributed research publications like the TEACH journal published by Avondale University Press (2024), can help by promoting ideas and justifying them with results-driven research. This publication is a great resource for Christian teachers, since a core focus is understanding education through a Christian lens. 
 
 
 <details><summary>Example Publication</summary>  
 {% include frame-container.html src="/assets/pdf/TEACH_Vol_14_No_1_9_14_Stephenson.pdf" cap="One research article found through TEACH [(Stephenson, 2020)](https://doi.org/10.55254/1835-1492.1447)" %}
 </details>
 
-However, the biannual journal is much more than this one lens. It publishes articles containing recent research in areas such as differentiation, teaching practice, educational administration, and teacher education. Many articles provide a reader with a taste of research or theory, inviting them to explore further by following the author’s sources and recommendations. Readers can even choose to stay up to date with the publication through an RSS feed.
+However, the biannual journal is much more than this one lens. It publishes articles containing recent research in areas such as differentiation, teaching practice, educational administration, and teacher education. Many articles provide a reader with a taste of research or theory, inviting them to explore further by following the author’s sources and recommendations. Readers can even choose to stay up to date with an RSS feed.
 
 
 {% include item-title.html title="Other" first=True %}
-Collegial collaboration is the core of focus area 6.3, and so it is worth noting that many items in this e-portfolio were acquired during professional learning days at my school (Retrieval Roulettes and CambridgeGO), or through engaging with colleagues during the regular course of our work (OneNote and AnkiApp).
+Collegial collaboration is the core of focus area 6.3, and so it is worth noting that many items in this e-portfolio were acquired during professional learning days at my school (Retrieval Roulettes and CambridgeGO), or through engaging with colleagues (OneNote and AnkiApp).
 
 {% include item-title.html title="References" %}  
 

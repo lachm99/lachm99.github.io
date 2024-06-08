@@ -5,18 +5,18 @@ subtitle: Create and maintain supportive and safe learning environments
 ---
 {% include item-title.html title="Team Picker Wheel" first=True %}
 
-Team Picker Wheel is a web app designed with a single purpose: assigning names from a list into random groups (Picker Wheel, 2024). There are various features which make this tool incredibly useful for a classroom teacher. Names can be imported directly from an external list such as a roll, individual names can be included or excluded during randomisation, names can be allocated according to group size or number, and distributed with regard for gender or other sub-groupings. 
+Team Picker Wheel is a web app designed to assign names from a list into random groups (Picker Wheel, 2024). There are various features which make this tool incredibly useful for a classroom teacher. Names can be imported directly, names can be excluded during randomisation, or distributed with regard for gender or other sub-groupings.
 
 {% include img-container.html img="/assets/img/e-portfolio/teampickerwheel.gif" cap="Team Picker Wheel Demonstration" link="https://pickerwheel.com/tools/random-team-generator/" %}
 
 
-A tool such as this, which can be used in front of the class to achieve visibly random groups, makes a huge impact on the learning environment, fostering inclusivity and engagement (Liljedahl, 2016), and as such contributes to addressing the  target areas of 4.1 and 4.2, considering student participation and classroom management respectively. 
+A tool such as this, which can be used in front of the class to achieve visibly random groups, makes a huge impact on the learning environment, fostering inclusivity and engagement (Liljedahl, 2016), and as such contributes to addressing the target areas of 4.1 and 4.2.
 
 <details><summary>Interactive Example</summary>  
 {% include frame-container.html src="https://pickerwheel.com/rtg?id=S8HtF" cap="Team Picker Wheel - Example Class" %}
 </details>
 
-Additionally, in terms of ethics, visibly random grouping lends itself to transparency. Unfortunately, many teachers are in the habit of assigning students to “random” groups that have (consciously or unconsciously) been formed based on assumptions, prejudices, or pragmatic concerns. I suggest that this is ethically problematic; expedient lies, however trivial they seem, establish a precedent of exploiting positional authority for the sake of teacher convenience. A tool like Team Picker Wheel can be used to visibly demonstrate the randomness of groupings and instead lay a precedent of transparency and trust.
+In terms of ethics, visibly random grouping lends itself to transparency. Unfortunately, many teachers are in the habit of assigning students to “random” groups that have been formed based on assumptions, prejudices, or pragmatic concerns. I suggest that this is ethically problematic; expedient lies, however trivial they seem, establish a precedent of exploiting positional authority for the sake of teacher convenience. Team Picker Wheel can be used to visibly demonstrate the randomness of groupings and lay a precedent of transparency and trust.
 
 {% include item-title.html title="Note" first=True %}
 

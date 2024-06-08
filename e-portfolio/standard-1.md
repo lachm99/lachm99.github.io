@@ -12,28 +12,27 @@ A retrieval roulette, first created by [Adam Boxer](https://achemicalorthodoxy.c
 
 {% include img-container.html img="/assets/img/e-portfolio/rr1.png" cap="Retrieval roulette spreadsheet, with formatted random questions and answers" link="https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette" %}
 
-The use of this kind of tool contributes to focus area 1.2, as it represents a knowledge of the way students gain and retain knowledge.
+The use of this tool contributes to focus area 1.2, displaying a knowledge of the way students retain understanding.
 
 <details><summary>Interactive Example</summary>  
 {% include frame-container.html src="https://bossmaths.com/rr2/" cap="[BossMaths](https://bossmaths.com/rr/) Customisable Retrieval Roulette" %}
 </details>
 
-Roulettes like the above align with focus area 1.5, since the difficulty of some or all of the retrieval activities can be easily configured to increase complexity and challenge, or to provide students with options for self-differentiation.  
+Roulettes like the above align with focus area 1.5, since the difficulty of some or all of the retrieval activities can be configured to increase complexity and challenge.  
 
 {% include item-title.html title="AnkiApp" %}
 
-Self-testing has various benefits for learning, including improved retention (Roediger & Karpicke, 2006). One classic method of self-testing across disciplines is the use of flashcards. In recent years, digital flashcards have become a popular self-testing tool for learning. These have demonstrable benefits, particularly for short-term retention (Schmidmaier et al., 2011).  
+Self-testing has various benefits for learning, including improved retention (Roediger & Karpicke, 2006). One method of self-testing across disciplines is the use of digital flashcards. These have demonstrable benefits for retention (Schmidmaier et al., 2011).  
 
-One tool in this category is [AnkiApp](https://www.ankiapp.com/), a cross-platform app which can be used to create, find, group, share, and use digital flashcards (AnkiApp Inc., 2020). AnkiApp is incredibly versatile, and can natively accommodate content in various forms including: rich text, TeX, TTS, audio, code, and images.  
+One tool in this category is [AnkiApp](https://www.ankiapp.com/), a cross-platform app which can be used to create, find, group, share, and use digital flashcards (AnkiApp Inc., 2020). 
 
 {% include img-container.html img="/assets/img/e-portfolio/ankiapp.gif" cap="AnkiApp Web Flashcard Demonstration" link="https://www.ankiapp.com/" %}
 
-Effective across disciplines, it can be used by both teachers and students to facilitate learning. Teachers can assign a set of flashcards as a form of ongoing formative assessment, monitoring student progress and areas of struggle. Students can be tasked with creating a deck with which to practise, synthesizing disciplinary knowledge into effective review materials, or simply be provided resources with which to study and review course content. This versatility, including options to use it across the range of lower to higher order thinking activities, make AnkiApp a helpful tool in line with focus area 1.5, since it can be used to provide learning activities for all ability levels. 
+Teachers can assign flashcards as a form of formative assessment, monitoring student progress. Students can be tasked with creating a deck, synthesizing disciplinary knowledge into review materials. This versatility, including options to use it across the range of lower to higher order thinking activities, make AnkiApp a helpful tool in line with focus area 1.5.
 
-Further, AnkiApp uses a type of spacing algorithm which intelligently organises the review material in order to optimise the retesting process, which is proven to increase retention (Kornell, 2009). The use of such a research-driven tool aligns with focus area 1.2. 
+AnkiApp uses a spacing algorithm which optimises the retesting process to increase retention (Kornell, 2009). The use of such a research-driven tool aligns with focus area 1.2. 
 
-However, there is a valid ethics concern which may arise if this tool is overused—it is the task of a school to form students who truly understand the content area, not students who can parrot facts. AnkiApp is a good tool to improve retention of ideas already learned, but must not replace quality instruction.
-
+Ethically, while AnkiApp is a good tool to improve retention of ideas already learned, teachers must be careful not to encourage an appearance of understanding in the form of memorised facts.
 
 {% include item-title.html title="References" %}
   
