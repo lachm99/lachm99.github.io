@@ -5,7 +5,7 @@ subtitle: Assess, provide feedback and report on student learning
 ---
 {% include item-title.html title="CambridgeGO" first=True %}
 
-CambridgeGO comprises an extensive suite of teaching resources, diagnostic tools, and activities (Cambridge University Press & Assessment, 2024). For the purpose of this portfolio, we focus on its assessment, feedback, and reporting capabilities in line with standard 5. 
+[CambridgeGO](https://www.cambridge.org/go) comprises an extensive suite of teaching resources, diagnostic tools, and activities (Cambridge University Press & Assessment, 2024). For the purpose of this portfolio, we focus on its assessment, feedback, and reporting capabilities in line with standard 5. 
 
 The Centre for Education Statistics and Evaluation (2020) recommends that teachers “develop and deliver assessment tasks that assess the intended learning outcomes from the syllabus, ensuring that the tasks are accessible to all students” (p. 22). CambridgeGO’s diagnostic suite is custom designed for this, allowing teachers to select content areas and outcomes to construct assessments, specifying the number of questions, a desired range of question types, and the difficulty range for these questions.
 

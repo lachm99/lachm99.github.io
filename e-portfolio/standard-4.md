@@ -5,7 +5,7 @@ subtitle: Create and maintain supportive and safe learning environments
 ---
 {% include item-title.html title="Team Picker Wheel" first=True %}
 
-Team Picker Wheel is a web app designed to assign names from a list into random groups (Picker Wheel, 2024). There are various features which make this tool incredibly useful for a classroom teacher. Names can be imported directly, names can be excluded during randomisation, or distributed with regard for gender or other sub-groupings.
+[Team Picker Wheel](https://pickerwheel.com/tools/random-team-generator/) is a web app designed to assign names from a list into random groups (Picker Wheel, 2024). There are various features which make this tool incredibly useful for a classroom teacher. Names can be imported directly, names can be excluded during randomisation, or distributed with regard for gender or other sub-groupings.
 
 {% include img-container.html img="/assets/img/e-portfolio/teampickerwheel.gif" cap="Team Picker Wheel Demonstration" link="https://pickerwheel.com/tools/random-team-generator/" %}
 

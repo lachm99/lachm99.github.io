@@ -10,7 +10,7 @@ solidify learning is through retrieval practice (Roediger & Butler, 2011).
 
 A retrieval roulette, first created by [Adam Boxer](https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette/) (2017), enables teachers to collate a question bank over the entirety of a course, and automatically present a selection of both interleaved and recent retrieval questions for students to attempt each lesson. 
 
-{% include img-container.html img="/assets/img/e-portfolio/rr1.png" cap="Retrieval roulette spreadsheet, with formatted random questions and answers" link="https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette" %}
+{% include img-container.html img="/assets/img/e-portfolio/rr1.png" cap="Retrieval roulette questions and answers sheet (Boxer, 2017)" link="https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette" %}
 
 The use of this tool contributes to focus area 1.2, displaying a knowledge of the way students retain understanding.
 
