@@ -3,9 +3,6 @@ layout: standard
 title: Standard 1
 subtitle: Know Students and How They Learn
 ---
-
-The resources in this section are useful in light of research revealing the ways that students best attain and retain understanding.
-
 {% include item-title.html title="Retrieval Roulettes" first=True %}
 
 Student learning is wasted if new understanding does not find its way into long term memory. One of the most effective ways to
@@ -44,7 +41,9 @@ However, there is a valid ethics concern which may arise if this tool is overuse
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">AnkiApp Inc. (2022). <i>AnkiApp</i>. AnkiApp. <a href="https://www.ankiapp.com/">https://www.ankiapp.com/</a></div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=AnkiApp&amp;rft.identifier=https%3A%2F%2Fwww.ankiapp.com%2F&amp;rft.au=undefined&amp;rft.date=2022"></span>
-    <div class="csl-entry">Boxer, A (2017, May 4). <i>The retrieval roulette</i>. A Chemical Orthodoxy. <a href="https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette/">https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette/</a></div>
+  <div class="csl-entry">BossMaths. (2024). <i>Maths Retrieval Roulette</i>. BossMaths. <a href="https://bossmaths.com/rr/">https://bossmaths.com/rr/</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=Maths%20Retrieval%20Roulette&amp;rft.description=A%20flexible%20Mathematics%20Retrieval%20Roulette%2C%20generating%20random%20questions%20including%20ones%20with%20diagrams%20and%20graphs.&amp;rft.identifier=https%3A%2F%2Fbossmaths.com%2Frr%2F&amp;rft.au=undefined&amp;rft.date=2024&amp;rft.language=en-GB"></span>
+  <div class="csl-entry">Boxer, A (2017, May 4). <i>The retrieval roulette</i>. A Chemical Orthodoxy. <a href="https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette/">https://achemicalorthodoxy.co.uk/2017/05/04/the-retrieval-roulette/</a></div>
   <div class="csl-entry">Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. <i>Applied Cognitive Psychology</i>, <i>23</i>(9), 1297–1317. <a href="https://doi.org/10.1002/acp.1537">https://doi.org/10.1002/acp.1537</a></div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1002%2Facp.1537&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Optimising%20learning%20using%20flashcards%3A%20Spacing%20is%20more%20effective%20than%20cramming&amp;rft.jtitle=Applied%20Cognitive%20Psychology&amp;rft.volume=23&amp;rft.issue=9&amp;rft.aufirst=Nate&amp;rft.aulast=Kornell&amp;rft.au=Nate%20Kornell&amp;rft.date=2009&amp;rft.pages=1297-1317&amp;rft.spage=1297&amp;rft.epage=1317&amp;rft.issn=1099-0720&amp;rft.language=en"></span>
   <div class="csl-entry">Roediger, H. L., &amp; Butler, A. C. (2011). The critical role of retrieval practice in long-term retention. <i>Trends in Cognitive Sciences</i>, <i>15</i>(1), 20–27.</div>

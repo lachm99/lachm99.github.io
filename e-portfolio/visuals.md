@@ -33,4 +33,7 @@ title: Assets
 
 [![CambridgeGO Demo](/assets/img/e-portfolio/cambridgego.gif)](https://www.cambridge.org/go)
 
+[![CambridgeGO Demo](/assets/img/e-portfolio/cambridgego.png)](https://www.cambridge.org/go)
+
+
 ---

@@ -3,14 +3,12 @@ layout: standard
 title: Standard 2
 subtitle: Know the content and how to teach it
 ---
-Introductory words here are used to blah blah blah  
-
 <!-- WOOTUBE -->
 {% include item-title.html title="Wootube" first=True %}
 
 One of the best ways for an aspiring teacher to learn, is to observe an expert teacher (Marzano & Boogren, 2010). [Wootube](https://misterwootube.com/) is a multi-site repository of quality mathematics teaching resources, containing, among other things, numerous recordings of real lessons in real classrooms, taught by expert teacher Eddie Woo (Woo, 2020). 
 
-{% include img-container.html img="/assets/img/e-portfolio/wootube.gif" cap="Wootube Site Walkthrough" link="https://misterwootube.com/" %}
+{% include img-container.html img="/assets/img/e-portfolio/wootube.gif" cap="Wootube site walkthrough" link="https://misterwootube.com/" %}
 
 This resource is invaluable for meeting focus areas 2.1, 2.2, and 2.5, especially for early career teachers who are unsure how to present a new topic or structure a learning sequence. 
 
@@ -27,13 +25,13 @@ One mitigating factor for the use of Wootube is that all the videos are un-monet
 
 The Desmos suite is best used as an aide for a skilled teacher, who thoughtfully selects visualisations, demonstrations, and activities which enrich the learning by helping students move to depth of understanding. Mathematics is, arguably, a discipline fundamentally about patterns and relationships, so visualisation tools can facilitate the transition from knowledge to understanding by providing a novel means of representation by which these patterns and relationships become recognisable and sensible (Gates, 2018).
 
-{% include img-container.html img="/assets/img/e-portfolio/desmos.gif" cap="Desmos Graphing Calculator Demo" link="https://desmos.com/" %}
+{% include img-container.html img="/assets/img/e-portfolio/desmos.gif" cap="Desmos graphing calculator demo" link="https://desmos.com/" %}
 
 One of the best ways to help students to depth of understanding in the sciences is a kind of discovery learning process, where students are encouraged along a journey which precipitates moments of realisation and insight (Kroeker, 1967; Shieh & Yu, 2016). Desmos is a great tool in this realm, since students can be set a task to investigate, for instance, a family of non-linear relationships, tweaking parameters and uncovering truths. 
 
 <details><summary>Interactive Example</summary>  
 {% include frame-container.html src="https://teacher.desmos.com/activitybuilder/custom/566b31784e38e1e21a10aade?collections=651ca31cf69ee59aa9e3818a%2C5e73b204d560367270838c4b#preview/df77bcd1-a128-4e8b-a1e6-6417acf42950
-" cap="Desmos Marbleslides Activity Demo" %}
+" cap="Desmos \"Marbleslides\" activity" %}
 </details>
 
 In personal experience, students who learn the transformations of a parabola by discovering the transformations themselves are much better at retaining that information correctly than those who first learnt the rules and then saw them applied.
