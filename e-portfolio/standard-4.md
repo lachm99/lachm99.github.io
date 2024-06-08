@@ -18,7 +18,7 @@ A tool such as this, which can be used in front of the class to achieve visibly 
 
 In terms of ethics, visibly random grouping lends itself to transparency. Unfortunately, many teachers are in the habit of assigning students to “random” groups that have been formed based on assumptions, prejudices, or pragmatic concerns. I suggest that this is ethically problematic; expedient lies, however trivial they seem, establish a precedent of exploiting positional authority for the sake of teacher convenience. Team Picker Wheel can be used to visibly demonstrate the randomness of groupings and lay a precedent of transparency and trust.
 
-{% include item-title.html title="Note" first=True %}
+{% include item-title.html title="Note" %}
 
 It is necessary to acknowledge focus area 4.5, which sits at the heart of this entire portfolio. While not referenced explicitly in each item, the focus area has informed the selection and appraisal of each tool, and forms the basis for the included ethical considerations.
 

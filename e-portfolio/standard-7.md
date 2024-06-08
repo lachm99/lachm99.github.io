@@ -9,7 +9,8 @@ The focus of this e-portfolio is the teaching and learning space, but effective 
 
 {% include img-container.html img="/assets/img/e-portfolio/complispace.png" cap="Policy and compliance home page demo" link="https://www.complispace.com.au/policy" %}
 
-This platform centralises all of these documents in one indexed location, so that relevant and up to date information can be quickly and reliably found, making it easier for staff to know how to comply with organisational, legislative, and administrative requirements.
+This platform centralises all of these documents in one indexed location, so that relevant and up to date information can be quickly and reliably found, making it easier for staff to know how to comply with organisational, legislative, and administrative requirements.  
+
 
 {% include item-title.html title="Other" %}  
 
