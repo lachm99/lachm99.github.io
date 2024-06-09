@@ -28,4 +28,4 @@ Collegial collaboration is the core of focus area 6.3, and so it is worth noting
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.55254%2F1835-1492.1447&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Your%20classroom%20as%20an%20orchestra%3A%20Practical%20differentiation%20strategies&amp;rft.jtitle=TEACH%20Journal%20of%20Christian%20Education&amp;rft.volume=14&amp;rft.issue=1&amp;rft.aufirst=Estee&amp;rft.aulast=Stephenson&amp;rft.au=Estee%20Stephenson&amp;rft.date=2020-07-01&amp;rft.issn=1835-1492"></span>
 </div>
 
-{% include bottom-links.html ltext="Standard Five" lref="standard-5"  ctext="Home" cref="../e-portfolio" ctext="Home" cref="." rtext="Standard Seven" rref="standard-7" %}
+{% include bottom-links.html ltext="Standard Five" lref="standard-5"  ctext="Home" cref="../e-portfolio" rtext="Standard Seven" rref="standard-7" %}
