@@ -27,8 +27,11 @@
             {%endif%}
           </div>
         {% else %}
-          {% if my_page.path contains "pages/" %}
+          {% if my_page.path contains "404" %}
+          {% else %}
+            {% if my_page.path contains "pages/" %}
             <a class="page-link{% if path == page.path %} current{% endif %}" href="{{ my_page.url | relative_url | remove:'.html' }}">{{ my_page.title | escape }}</a>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}
