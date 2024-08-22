@@ -10,7 +10,7 @@ I love seeing the world through a lens of wonder.
 
 That's led me along a winding path of work and study: first as an outdoor educator; then as a student of computer science; and eventually as a DevOps engineer.  
 
-Currently, I'm training to be a Secondary School teacher of Mathematics and Computing, motivated by the desire to help young people see the world with wonder and inhabit it with skill and wisdom.
+Currently, I'm wrapping up my training as a Secondary School teacher of Mathematics and Computing, motivated by the desire to help young people see the world with wonder and inhabit it with skill and wisdom.
 
 Although I'm still in my early career, I'm passionate about using each opportunity to do good and honour God, and it's a privilege to combine passions for people, tech, and discovery on this new teaching journey.  
 
