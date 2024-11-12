@@ -37,3 +37,19 @@ title: Assets
 
 
 ---
+
+## Retrievals
+
+[Retrieval 1](/assets/img/e-portfolio/retrieval1.gif)
+
+[Retrieval 2](/assets/img/e-portfolio/retrieval2.gif)
+
+---
+
+## Differentiation
+
+[Differentiation](/assets/img/e-portfolio/differentiation.gif)
+{% include img-container.html img="/assets/img/e-portfolio/differentiation.gif" cap="Policy and compliance home page demo" link="https://www.complispace.com.au/policy" %}
+
+
+---
